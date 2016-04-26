@@ -13,7 +13,7 @@ $(document).ready(function()
 {
     // Global var
     var templatesPath = 'templates/MantisTemplater-1.3.X/';  // templates path
-    var copyrightEmail = 'hi@devdiamond.com';                // Copyright email
+    var copyrightEmail = 'me@devdiamond.com';                // Copyright email
     var copyrightName = 'DevDiamond';                        // Copyright name
 
 	// rss-icons

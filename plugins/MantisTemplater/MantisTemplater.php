@@ -22,8 +22,8 @@ class MantisTemplaterPlugin extends MantisPlugin
 		);
 
 		$this->author = 'DevDiamond';
-		$this->contact = 'mydsinvest@gmail.com';
-		$this->url = 'devdiamond.com';
+		$this->contact = 'me@devdiamond.com';
+		$this->url = 'https://github.com/DevDiamondCom/MantisTemplater';
 	}
 
 	/**
