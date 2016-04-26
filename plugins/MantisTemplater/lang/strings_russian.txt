@@ -1,0 +1,57 @@
+<?php
+/** MantisBT - a php based bugtracking system
+ *
+ * Copyright (C) 2000 - 2002  Kenzaburo Ito - kenito@300baud.org
+ * Copyright (C) 2002 - 2015  MantisBT Team - mantisbt-dev@lists.sourceforge.net
+ *
+ * MantisBT is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * MantisBT is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with MantisBT.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ * **********************************************************************
+ * ** This file contains translations stored in translatewiki.net.     **
+ * ** See https://translatewiki.net/wiki/Project:About for information **
+ * ** on copyright/license for translatewiki.net translations.         **
+ * **********************************************************************
+ * **                                                                  **
+ * **                      DO NOT UPDATE MANUALLY                      **
+ * **                                                                  **
+ * ** To improve a translation please visit http://translatewiki.net   **
+ * ** Detailed instructions on how to create or update translations at **
+ * ** http://www.mantisbt.org/wiki/doku.php/mantisbt:translationshowto **
+ * **********************************************************************
+ */
+/** Russian (русский)
+ * 
+ * See the qqq 'language' for message documentation incl. usage of parameters
+ * To improve a translation please visit http://translatewiki.net
+ *
+ * @ingroup Language
+ * @file
+ *
+ * @author DevDiamond
+ */
+
+$s_plugin_MantisTemplater_title = 'Шаблонизатор для MantisBT - MantisTemplater';
+$s_plugin_MantisTemplater_description = 'Плагином можно создавать собственные шаблоны и полезные твики.';
+$s_plugin_MantisTemplater_on = 'вкл';
+$s_plugin_MantisTemplater_off = 'выкл';
+$s_plugin_MantisTemplater_edit_page_title = 'Редактирование плагина - MantisTemplater';
+$s_plugin_MantisTemplater_edit_page_name = 'Настройки шаблонизатора - MantisTemplater';
+$s_plugin_MantisTemplater_edit_page_name_dec = 'ваша версия mantisbt';
+$s_plugin_MantisTemplater_edit_page_status_template = 'Вкл/Выкл Шаблоны';
+$s_plugin_MantisTemplater_edit_page_status_template_dec = 'выкл если надо стандартный шаблона MantisBT';
+$s_plugin_MantisTemplater_edit_page_current_template = 'Текущий шаблон';
+$s_plugin_MantisTemplater_edit_page_ctrl_enter = 'Отправка комментариев по нажатию "Ctrl" + "Enter"';
+$s_plugin_MantisTemplater_edit_page_braces = 'Убрать квадратные скобки (брекеты) в ссылках';
+$s_plugin_MantisTemplater_edit_page_incident = 'Название инцидента как ссылка на странице "Список инцидентов"';
+$s_plugin_MantisTemplater_edit_page_tinymce = 'Добавить поддержку текстового редактора TinyMCE';
